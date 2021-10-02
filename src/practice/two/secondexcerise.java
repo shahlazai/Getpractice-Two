@@ -7,7 +7,7 @@ public class secondexcerise {
 		
 		System.out.println("i want to bring changes");
 	}
-	
+	System.out.println("lets check the changes i made);
 	
 
 }
